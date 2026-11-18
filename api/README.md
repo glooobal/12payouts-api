@@ -1,4 +1,4 @@
-# dywidenda-app
+# 12payouts
 
 To install dependencies:
 

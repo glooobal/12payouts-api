@@ -3,7 +3,7 @@
   "configVersion": 1,
   "workspaces": {
     "": {
-      "name": "dywidenda-app",
+      "name": "12payouts",
       "dependencies": {
         "@supabase/supabase-js": "^2.119.0",
         "yahoo-finance2": "^4.0.6",
